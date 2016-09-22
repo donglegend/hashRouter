@@ -1,4 +1,4 @@
-# hashRouter
+# [hashRouter 预览demo](http://donglegend.com/effects/hashRouter/index.html)
 自己写了一个 hash 路由，目前还不懂 h5 history有什么关系，再研究.
 
 HashRoute 是挂在在全局的 window，不可被实例化，直接使用。
